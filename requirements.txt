@@ -1,0 +1,5 @@
+pyramid
+pytest>=3.0
+pytest-runner
+gunicorn
+pact-test
